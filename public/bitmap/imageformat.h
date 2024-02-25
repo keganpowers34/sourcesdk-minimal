@@ -476,8 +476,8 @@ namespace ImageLoader
 	// whether it's supported or not
 	// FIXME: Move into shaderapidx8/rendersystemdx9
 	//-----------------------------------------------------------------------------
-	ImageFormat D3DFormatToImageFormat( D3DFORMAT format );
-	D3DFORMAT ImageFormatToD3DFormat( ImageFormat format );
+	//ImageFormat D3DFormatToImageFormat( D3DFORMAT format );
+	//D3DFORMAT ImageFormatToD3DFormat( ImageFormat format );
 
 	// Flags for ResampleRGBA8888
 	enum
